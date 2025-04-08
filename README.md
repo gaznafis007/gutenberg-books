@@ -1,4 +1,3 @@
-```markdown
 # 📚 Gutenberg Books Explorer
 
 A modern, responsive web application for exploring and discovering classic literature from the Project Gutenberg digital library.
@@ -109,6 +108,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 **Gazi Nafis Md Abdullah**  
 🔗 [LinkedIn](https://www.linkedin.com/in/gazi-nafis-4712771a4/) | 🌍 [Portfolio](https://gazi-nafis-rafi.vercel.app/) | 💻 Full Stack Developer
 
----
-
-```

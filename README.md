@@ -32,7 +32,7 @@ Visit the live application: [Gutenberg Books Explorer](https://vocal-vacherin-34
 - **CSS3** – Layout and responsive design using Flexbox & Grid
 - **Vanilla JavaScript (ES6+)** – No external frameworks used
 - **Local Storage API** – For wishlist and user preference persistence
-- **Fetch API** – To retrieve data from the [Gutenberg Books API](https://gutendex.com/)
+- **Fetch API** – To retrieve data from the [Gutenberg Books API](https://gutendex.com/books)
 - **Font Awesome** – For UI icons like wishlist hearts
 
 ---
